@@ -1,2 +1,2 @@
 # Third_project
-Machine Learning - Predicted the values for Health Insurance using Linear Regression Alogorithm.
+Machine Learning - Health Insurance forecasting using Linear Regression Alogorithm.
